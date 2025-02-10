@@ -1,4 +1,3 @@
-### Olá, sou Wesley Andrade ✋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hello%2C+I'm+Wesley+Andrade+;I'm+39+years+old+;I'm+from+Brazil+;Welcome)](https://git.io/typing-svg)
 
