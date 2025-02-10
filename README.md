@@ -5,7 +5,7 @@
 
 ![WesleyAndrade10's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyAndrade10&show_icons=true&theme=dracula)
 
-## O que uso no meu dia
+## Studying in this moment:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt "DEV.TO" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
